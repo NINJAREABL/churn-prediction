@@ -17,7 +17,7 @@ A comprehensive churn prediction system with an interactive Streamlit dashboard 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/stop-the-churn.git
+git clone https://github.com/NINJAREABL/stop-the-churn.git
 cd stop-the-churn
 ```
 
@@ -55,5 +55,6 @@ streamlit run app.py
 The system uses a binary classifier optimized for AUC-ROC score to predict customer churn within 30 days.
 
 ## Contributing
+
 
 Feel free to submit issues and enhancement requests! 
