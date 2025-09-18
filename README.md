@@ -1,4 +1,4 @@
-# Stop the Churn - Customer Churn Prediction System
+# Customer Churn Prediction System
 
 A comprehensive churn prediction system with an interactive Streamlit dashboard that helps identify customers at risk of churning.
 
@@ -17,7 +17,7 @@ A comprehensive churn prediction system with an interactive Streamlit dashboard 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/NINJAREABL/stop-the-churn.git
+git clone https://github.com/abhaypratap0709/churn-prediction/stop-the-churn.git
 cd stop-the-churn
 ```
 
@@ -58,3 +58,4 @@ The system uses a binary classifier optimized for AUC-ROC score to predict custo
 
 
 Feel free to submit issues and enhancement requests! 
+
